@@ -1,6 +1,6 @@
 /**
  * Created: January 13, 2021
- * Create a class named Year that contains a data field that holds the number of days in a year.
+ * Instructions: Create a class named Year that contains a data field that holds the number of days in a year.
  * Include a get method that displays the number of days and a constructor that sets the number of days to 365.
  *
  * Create a subclass named LeapYear. LeapYear’s constructor overrides Year’s constructor and
