@@ -1,6 +1,6 @@
 /**
  * Created: January 13, 20221
- * Create a class named HotelRoom that includes an integer field for the roomNumber and
+ * Instructions: Create a class named HotelRoom that includes an integer field for the roomNumber and
  * a double field for the roomRate. Include get methods for these fields and a constructor that
  * requires an integer argument representing the room number. The constructor sets the room rate
  * based on the room number; rooms numbered 299 and below are $69.95 per night, and others are $89.95 per night.
